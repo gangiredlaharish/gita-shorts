@@ -1,4 +1,4 @@
-"""Word timings with local Whisper (faster-whisper small.en, MIT) -> data/words.json [{w, line, s, e}].
+"""Word timings with local Whisper (faster-whisper small, multilingual, MIT) -> data/words.json [{w, line, s, e}].
 
   scripts/py scripts/words.py <project>                       after voice.py (uses data/narration.wav + data/lines.json)
   scripts/py scripts/words.py <project> --audio my_vo.m4a      YOUR OWN recording: becomes data/narration.wav, and the
@@ -56,7 +56,11 @@ def main():
     P = Path(a.project); S = json.loads((P / 'script.json').read_text())
     try:
         from faster_whisper import WhisperModel
-        model = WhisperModel('small.en', device='cpu', compute_type='int8')
+        # multilingual 'small' (not 'small.en'): this channel's narration is mostly Hindi, with some
+        # Sanskrit/English lines read in Hindi phonemes. An English-only model would mis-hear almost
+        # every word; forcing language='hi' below gets the Hindi majority right and still times the rest
+        # reasonably (align() below tolerates words Whisper mis-heard by spreading them proportionally).
+        model = WhisperModel('small', device='cpu', compute_type='int8')
     except Exception as e:
         if a.audio or not (P / 'data/lines.json').exists():
             raise SystemExit(f'Whisper is needed for your own recording and could not load: {e}')
@@ -67,7 +71,7 @@ def main():
     try:   # decode with ffmpeg ourselves (avoids PyAV version problems), 16 kHz mono float32
         import numpy as np
         raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', str(P / 'data/narration.wav'), '-ac', '1', '-ar', '16000', '-f', 'f32le', '-'], capture_output=True, check=True).stdout
-        segs, _ = model.transcribe(np.frombuffer(raw, dtype=np.float32), word_timestamps=True, vad_filter=False)
+        segs, _ = model.transcribe(np.frombuffer(raw, dtype=np.float32), word_timestamps=True, vad_filter=False, language='hi')
         heard = [(w.word.strip(), w.start + 0.04, w.end) for s in segs for w in s.words]   # Whisper starts run a little early
     except Exception as e:
         if a.audio or not (P / 'data/lines.json').exists():
