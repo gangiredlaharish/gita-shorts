@@ -1,0 +1,264 @@
+{
+ "title": "Bhagavad Gita 1.1 | Meaning in English & Hindi #shorts",
+ "voice": "hm_omega",
+ "speed": 0.92,
+ "lead": 0.4,
+ "outro": 0.6,
+ "gap": 0.3,
+ "music": "flute",
+ "sources": [
+  "Bhagavad Gita 1.1, Devanagari and word meanings (dharma-kshetre kuru-kshetre samaveta yuyutsavah / mamakah pandavash caiva kim akurvata sanjaya; mamakah = my own people, pandavah = the sons of Pandu) https://www.holy-bhagavad-gita.org/chapter/1/verse/1/",
+  "Vedabase, Bhagavad Gita As It Is 1.1 (Dhritarashtra speaks the first verse; sons of Pandu and his own sons assembled at Kurukshetra, eager to fight) https://vedabase.io/en/library/bg/1/1/",
+  "bhagavad-gita.us, Chapter 1 Verse 1 https://www.bhagavad-gita.us/bhagavad-gita-1-1",
+  "shlokam.org, Chapter 1 all verses https://shlokam.org/bhagavad-gita-chapter-1-all-verses-easy-chanting/",
+  "Note: the 'mine and theirs' reading of mamakah and pandavah is the common teaching on this verse (the verse itself says 'my people' and 'the sons of Pandu'). Script supplied by the channel owner; Indian-English narration uses a Hindi Kokoro voice reading English phonemes, with Hindi phonemes for the Sanskrit."
+ ],
+ "lines": [
+  {
+   "text": "भगवद्गीता।",
+   "say": "{भगवद्गीता।}",
+   "caps": "*Bhagavad Gita.",
+   "gap": 0.35,
+   "scene": "manuscript",
+   "gold": [
+    {
+     "t": "भगवद्गीता",
+     "y": 360,
+     "size": 190
+    }
+   ]
+  },
+  {
+   "text": "अध्याय एक, श्लोक एक।",
+   "say": "{अध्याय एक, श्लोक एक।}",
+   "caps": "*Chapter one, | *shloka one.",
+   "cut": false,
+   "gold": [
+    {
+     "t": "CHAPTER 1",
+     "at": "अध्याय",
+     "y": 1190,
+     "size": 86,
+     "font": "en"
+    },
+    {
+     "t": "SHLOKA 1",
+     "at": "श्लोक",
+     "y": 1300,
+     "size": 86,
+     "font": "en"
+    }
+   ]
+  },
+  {
+   "text": "Dhritarashtra uvacha:",
+   "say": "<dʰɾˌɪtɾˈaːʂʈɾə ʊʋˈaːʧə>",
+   "caps": "Dhritarashtra | *uvacha:",
+   "break": true,
+   "gap": 0.4,
+   "speed": 0.92,
+   "scene": "king",
+   "gold": [
+    {
+     "t": "धृतराष्ट्र उवाच",
+     "y": 1260,
+     "size": 120
+    }
+   ],
+   "plate": [
+    1080,
+    1450
+   ]
+  },
+  {
+   "text": "Dharmakshetre kurukshetre,",
+   "say": "<dʰˈəɾməkʂˌeːtɾeː kˈʊɾʊkʂˌeːtɾeː>",
+   "caps": "*Dharmakshetre | kurukshetre,",
+   "break": true,
+   "gap": 0.3,
+   "speed": 0.92,
+   "scene": "field",
+   "pada": 0
+  },
+  {
+   "text": "samaveta yuyutsavah.",
+   "say": "<sˈəməʋeːtaː jˈʊjʊtsəʋəhə>",
+   "caps": "*samaveta | yuyutsavah.",
+   "break": true,
+   "gap": 0.4,
+   "speed": 0.92,
+   "scene": "armies",
+   "pada": 1
+  },
+  {
+   "text": "Mamakah pandavashchaiva,",
+   "say": "<mˈaːməkaːhə pˈaːɳɖəʋaːʃ ʧˈəɪʋə>",
+   "caps": "*Mamakah | pandavashchaiva,",
+   "break": true,
+   "gap": 0.3,
+   "speed": 0.92,
+   "scene": "banners2",
+   "pada": 2
+  },
+  {
+   "text": "kimakurvata sanjaya.",
+   "say": "<kˈɪm əkˈʊɾʋətə sˈənʤəjə>",
+   "caps": "*kimakurvata | sanjaya.",
+   "break": true,
+   "gap": 0.45,
+   "speed": 0.92,
+   "scene": "portrait",
+   "pada": 3
+  },
+  {
+   "text": "अंधे राजा धृतराष्ट्र ने अपने सलाहकार संजय से पूछा:",
+   "say": "{अंधे राजा धृतराष्ट्र ने अपने सलाहकार संजय से पूछा:}",
+   "caps": "The *blind king | *Dhritarashtra asks | his *advisor, | *Sanjaya:",
+   "break": true,
+   "gap": 0.3,
+   "hi": "अंधे राजा धृतराष्ट्र ने अपने सलाहकार संजय से पूछा:",
+   "scene": "throne",
+   "tag": "MEANING"
+  },
+  {
+   "text": "पवित्र धर्मभूमि कुरुक्षेत्र में, युद्ध की इच्छा से इकट्ठे हुए",
+   "say": "{पवित्र धर्मभूमि कुरुक्षेत्र में, युद्ध की इच्छा से इकट्ठे हुए,}",
+   "caps": "On the *sacred field | of *Kurukshetra, | *gathered and | eager to *fight,",
+   "hi": "पवित्र धर्मभूमि कुरुक्षेत्र में, युद्ध की इच्छा से इकट्ठे हुए",
+   "scene": "field",
+   "scene2": "armies",
+   "xf": "इकट्ठे"
+  },
+  {
+   "text": "मेरे पुत्रों और पाण्डु के पुत्रों ने क्या किया?",
+   "say": "{मेरे पुत्रों और पाण्डु के पुत्रों ने क्या किया?}",
+   "caps": "what did *my sons | and the sons | of *Pandu | *do?",
+   "break": true,
+   "gap": 0.3,
+   "hi": "मेरे पुत्रों और पाण्डु के पुत्रों ने क्या किया?",
+   "scene": "banners2"
+  },
+  {
+   "text": "ध्यान दीजिए, वे कहते हैं: मेरे पुत्र, और पाण्डु के पुत्र।",
+   "say": "{ध्यान दीजिए, वे कहते हैं: मेरे पुत्र, और पाण्डु के पुत्र.}",
+   "caps": "*Notice, | he says: | *my sons, | and the sons | of *Pandu.",
+   "break": true,
+   "gap": 0.2,
+   "hi": "ध्यान दीजिए, वे कहते हैं: मेरे पुत्र, और पाण्डु के पुत्र।",
+   "scene": "portrait",
+   "gold": [
+    {
+     "t": "मेरे पुत्र",
+     "at": "मेरे",
+     "y": 1050,
+     "size": 120
+    },
+    {
+     "t": "पाण्डु के पुत्र",
+     "at": "पाण्डु",
+     "y": 1190,
+     "size": 120
+    }
+   ],
+   "plate": [
+    930,
+    1320
+   ]
+  },
+  {
+   "text": "धर्म के क्षेत्र में भी,",
+   "say": "{धर्म के क्षेत्र में भी,}",
+   "caps": "Even on the | field of *Dharma,",
+   "hi": "धर्म के क्षेत्र में भी,",
+   "scene": "field"
+  },
+  {
+   "text": "मोह लोगों को अपने और पराए में बाँट देता है।",
+   "say": "{मोह लोगों को अपने और पराए में बाँट देता है.}",
+   "caps": "*attachment divides | people into | *mine, and | *theirs.",
+   "break": true,
+   "gap": 0.3,
+   "hi": "मोह लोगों को अपने और पराए में बाँट देता है।",
+   "scene": "banners",
+   "gold": [
+    {
+     "t": "अपने",
+     "at": "अपने",
+     "x": 290,
+     "y": 1470,
+     "size": 110,
+     "fit": 420
+    },
+    {
+     "t": "पराए",
+     "at": "पराए",
+     "x": 790,
+     "y": 1470,
+     "size": 110,
+     "fit": 420
+    }
+   ],
+   "plate": [
+    1330,
+    1600
+   ]
+  },
+  {
+   "text": "और यहीं से गीता का ज्ञान शुरू होता है।",
+   "say": "{और यहीं से गीता का ज्ञान शुरू होता है.}",
+   "caps": "That is *where | the *wisdom | of the Gita | *begins.",
+   "break": true,
+   "gap": 0.4,
+   "hi": "और यहीं से गीता का ज्ञान शुरू होता है।",
+   "scene": "chariot"
+  },
+  {
+   "text": "हर दिन एक नया श्लोक, फ़ॉलो करें।",
+   "say": "{हर दिन एक नया श्लोक, फ़ॉलो करें.}",
+   "caps": "A new *shloka | every *day. | *Follow us.",
+   "break": true,
+   "gap": 0.2,
+   "hi": "हर दिन एक नया श्लोक, फ़ॉलो करें।",
+   "scene": "lotus",
+   "gold": [
+    {
+     "t": "हर दिन एक श्लोक",
+     "at": "हर",
+     "y": 1385,
+     "size": 118
+    },
+    {
+     "t": "NEXT: CHAPTER 1 · VERSE 2",
+     "at": "नया",
+     "y": 1500,
+     "size": 60,
+     "font": "en"
+    }
+   ],
+   "plate": [
+    1250,
+    1570,
+    0.6
+   ]
+  }
+ ],
+ "accent": "indian",
+ "note": "v2: announce chapter/shloka, Sanskrit first, then meaning in English and Hindi. Hindi/English meaning is the studio's own wording.",
+ "chapter": 1,
+ "verse": 1,
+ "verse_dev": [
+  "धर्मक्षेत्रे कुरुक्षेत्रे",
+  "समवेता युयुत्सवः ।",
+  "मामकाः पाण्डवाश्चैव",
+  "किमकुर्वत सञ्जय ॥१॥"
+ ],
+ "verse_en": [
+  "Dharmakshetre kurukshetre",
+  "samaveta yuyutsavah.",
+  "Mamakah pandavashchaiva",
+  "kimakurvata sanjaya."
+ ],
+ "youtube": {
+  "title": "धृतराष्ट्र का सवाल | Bhagavad Gita 1.1 Meaning in Hindi #shorts"
+ }
+}
