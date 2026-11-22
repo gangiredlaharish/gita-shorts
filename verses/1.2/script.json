@@ -1,0 +1,183 @@
+{
+ "title": "Bhagavad Gita 1.2 | Meaning in Hindi #shorts",
+ "voice": "hm_omega",
+ "speed": 0.92,
+ "lead": 0.4,
+ "outro": 0.6,
+ "gap": 0.3,
+ "music": "flute",
+ "sources": [
+  "Bhagavad Gita 1.2, Devanagari and word meanings (sanjaya uvacha: drishtva tu pandavanikam vyudham duryodhanas tada / acharyam upasangamya raja vachanam abravit) https://www.holy-bhagavad-gita.org/chapter/1/verse/2/",
+  "Vedabase, Bhagavad Gita As It Is 1.2 (Sanjaya said: seeing the army of the Pandavas arrayed, King Duryodhana approached his teacher Dronacharya and spoke these words) https://vedabase.io/en/library/bg/1/2/",
+  "bhagavad-gita.us, Chapter 1 Verse 2 https://www.bhagavad-gita.us/bhagavad-gita-1-2",
+  "Note: Script supplied by the channel owner; Indian-English narration uses a Hindi Kokoro voice reading English phonemes, with Hindi phonemes for the Sanskrit. Hindi explanation + English subtitles, matching the 1.1 format."
+ ],
+ "lines": [
+  {
+   "text": "भगवद्गीता।",
+   "say": "{भगवद्गीता।}",
+   "caps": "*Bhagavad Gita.",
+   "gap": 0.35,
+   "scene": "manuscript",
+   "gold": [
+    { "t": "भगवद्गीता", "y": 360, "size": 190 }
+   ]
+  },
+  {
+   "text": "अध्याय एक, श्लोक दो।",
+   "say": "{अध्याय एक, श्लोक दो।}",
+   "caps": "*Chapter one, | *shloka two.",
+   "cut": false,
+   "gold": [
+    { "t": "CHAPTER 1", "at": "अध्याय", "y": 1190, "size": 86, "font": "en" },
+    { "t": "SHLOKA 2", "at": "श्लोक", "y": 1300, "size": 86, "font": "en" }
+   ]
+  },
+  {
+   "text": "संजय उवाच:",
+   "say": "<sˈənʤəjə ʊʋˈaːʧə>",
+   "caps": "*Sanjaya | *uvacha:",
+   "break": true,
+   "gap": 0.4,
+   "speed": 0.92,
+   "scene": "king",
+   "gold": [
+    { "t": "संजय उवाच", "y": 1260, "size": 120 }
+   ],
+   "plate": [1080, 1450]
+  },
+  {
+   "text": "Drishtva tu pandavanikam,",
+   "say": "<dɾˈɪʃʈʋaː tʊ pˈaːɳɖəʋaːnˌiːkəm>",
+   "caps": "*Drishtva tu | pandavanikam,",
+   "break": true,
+   "gap": 0.3,
+   "speed": 0.92,
+   "scene": "armies",
+   "pada": 0
+  },
+  {
+   "text": "vyudham duryodhanastada.",
+   "say": "<ʋjˈuːɖʰəm dˌʊɾjoːdʰənˈəstəda>",
+   "caps": "*vyudham | duryodhanastada.",
+   "break": true,
+   "gap": 0.4,
+   "speed": 0.92,
+   "scene": "duryodhana",
+   "pada": 1
+  },
+  {
+   "text": "Acharyamupasangamya,",
+   "say": "<aːʧˈaːɾjəmˌʊpəsəŋɡˈəmjaː>",
+   "caps": "*Acharyamupasangamya,",
+   "break": true,
+   "gap": 0.3,
+   "speed": 0.92,
+   "scene": "drona",
+   "pada": 2
+  },
+  {
+   "text": "raja vachanamabravit.",
+   "say": "<ɾˈaːʤaː ʋˈəʧənəmˌəbɾəʋˈiːt>",
+   "caps": "*raja | vachanamabravit.",
+   "break": true,
+   "gap": 0.45,
+   "speed": 0.92,
+   "scene": "duryodhana",
+   "pada": 3
+  },
+  {
+   "text": "संजय, धृतराष्ट्र को आगे की कथा सुनाते हैं:",
+   "say": "{संजय, धृतराष्ट्र को आगे की कथा सुनाते हैं:}",
+   "caps": "*Sanjaya | continues | the story | to *Dhritarashtra:",
+   "break": true,
+   "gap": 0.3,
+   "hi": "संजय, धृतराष्ट्र को आगे की कथा सुनाते हैं:",
+   "scene": "throne",
+   "tag": "MEANING"
+  },
+  {
+   "text": "जब दुर्योधन ने पांडवों की सेना को युद्ध के लिए सजा हुआ देखा,",
+   "say": "{जब दुर्योधन ने पांडवों की सेना को युद्ध के लिए सजा हुआ देखा,}",
+   "caps": "When *Duryodhana | saw the *Pandava army | arrayed | for *battle,",
+   "hi": "जब दुर्योधन ने पांडवों की सेना को युद्ध के लिए सजा हुआ देखा,",
+   "scene": "duryodhana",
+   "scene2": "armies",
+   "xf": "सेना"
+  },
+  {
+   "text": "तो वह अपने गुरु द्रोणाचार्य के पास गया,",
+   "say": "{तो वह अपने गुरु द्रोणाचार्य के पास गया,}",
+   "caps": "he went | to his *teacher, | *Dronacharya,",
+   "break": true,
+   "gap": 0.3,
+   "hi": "तो वह अपने गुरु द्रोणाचार्य के पास गया,",
+   "scene": "drona",
+   "plate": [1130, 1380],
+   "gold": [
+    { "t": "गुरु द्रोणाचार्य", "at": "द्रोणाचार्य", "y": 1260, "size": 108 }
+   ]
+  },
+  {
+   "text": "और यह शब्द कहे।",
+   "say": "{और यह शब्द कहे.}",
+   "caps": "and *spoke | these *words.",
+   "break": true,
+   "gap": 0.3,
+   "hi": "और यह शब्द कहे।",
+   "scene": "duryodhana"
+  },
+  {
+   "text": "एक राजा भी, युद्ध से पहले, अपने गुरु से सलाह लेना नहीं भूलता।",
+   "say": "{एक राजा भी, युद्ध से पहले, अपने गुरु से सलाह लेना नहीं भूलता.}",
+   "caps": "Even a *king, | before *battle, | does not forget | to seek his | *teacher's counsel.",
+   "break": true,
+   "gap": 0.3,
+   "hi": "एक राजा भी, युद्ध से पहले, अपने गुरु से सलाह लेना नहीं भूलता।",
+   "scene": "field",
+   "plate": [1330, 1600]
+  },
+  {
+   "text": "अगले श्लोक में, वह द्रोणाचार्य से क्या कहता है?",
+   "say": "{अगले श्लोक में, वह द्रोणाचार्य से क्या कहता है?}",
+   "caps": "In the *next shloka, | what does he | *say to | *Dronacharya?",
+   "break": true,
+   "gap": 0.4,
+   "hi": "अगले श्लोक में, वह द्रोणाचार्य से क्या कहता है?",
+   "scene": "chariot"
+  },
+  {
+   "text": "हर दिन एक नया श्लोक, फ़ॉलो करें।",
+   "say": "{हर दिन एक नया श्लोक, फ़ॉलो करें.}",
+   "caps": "A new *shloka | every *day. | *Follow us.",
+   "break": true,
+   "gap": 0.2,
+   "hi": "हर दिन एक नया श्लोक, फ़ॉलो करें।",
+   "scene": "lotus",
+   "gold": [
+    { "t": "हर दिन एक श्लोक", "at": "हर", "y": 1385, "size": 118 },
+    { "t": "NEXT: CHAPTER 1 · VERSE 3", "at": "नया", "y": 1500, "size": 60, "font": "en" }
+   ],
+   "plate": [1250, 1570, 0.6]
+  }
+ ],
+ "accent": "indian",
+ "note": "v1.2: Duryodhana sees the Pandava army arrayed and approaches his teacher Dronacharya. Same format as 1.1 (Sanskrit pada reveal, then Hindi meaning + English subtitles).",
+ "chapter": 1,
+ "verse": 2,
+ "verse_dev": [
+  "दृष्ट्वा तु पाण्डवानीकं",
+  "व्यूढं दुर्योधनस्तदा ।",
+  "आचार्यमुपसङ्गम्य",
+  "राजा वचनमब्रवीत् ॥२॥"
+ ],
+ "verse_en": [
+  "Drishtva tu pandavanikam",
+  "vyudham duryodhanastada.",
+  "Acharyamupasangamya",
+  "raja vachanamabravit."
+ ],
+ "youtube": {
+  "title": "दुर्योधन की चिंता | Bhagavad Gita 1.2 Meaning in Hindi #shorts"
+ }
+}
